@@ -1,10 +1,12 @@
-1. Write a C program to print all alphabets from a to z. 
-2. Write a C program to print all even numbers between 1 to 100. 
-3. Write a C program to find sum of all odd numbers between 1 to n. 
-4. Write a C program to print multiplication table of any number. 
-5. Write a C program to count number of digits in a number. 
-6. Write a C program to find first and last digit of a number. 
-7. Write a C program to swap first and last digits of a number. 
-8. Write a C program to find frequency of each digit in each integer. 
-9. Write a C program to enter a number and print it in words. 
-10. Write a C program to print all ASCII character with their values.
+1. Write a C program to find power of a number using for loop. 
+2. Write a C program to find all factors of a number. 
+3. Write a C program to find HCF (GCD) of two numbers.
+4. Write a C program to find LCM of two numbers. 
+5. Write a C program to find all prime factors of a number.
+6. Write a C program to check whether a number is Strong number or not.
+7. Write a C program to print all Strong numbers between 1 to n. 
+8. Write a C program to convert Hexadecimal to Decimal number system. 
+9. Write a C program to input week number and print weekday. 
+10. Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. 
+Calculate percentage and grade according to following: 
+Percentage >= 90% : Grade A Percentage >= 80% : Grade B Percentage >= 70% : Grade C Percentage >= 60% : Grade D Percentage >= 40% : Grade E Percentage < 40% : Grade F
